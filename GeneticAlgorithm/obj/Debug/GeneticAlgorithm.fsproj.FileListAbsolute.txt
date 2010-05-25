@@ -1,0 +1,6 @@
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.XML
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.dll
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.dll
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb

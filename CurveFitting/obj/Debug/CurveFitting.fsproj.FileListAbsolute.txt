@@ -1,0 +1,9 @@
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\CurveFitting.XML
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\CurveFitting.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\GeneticAlgorithm.dll
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\GeneticAlgorithm.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\GeneticAlgorithm.xml
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\obj\Debug\CurveFitting.pdb
+C:\Users\AAA\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\bin\Debug\CurveFitting.exe
+C:\Users\AAA\documents\visual studio 2010\Projects\GeneticAlgorithm\CurveFitting\obj\Debug\CurveFitting.exe

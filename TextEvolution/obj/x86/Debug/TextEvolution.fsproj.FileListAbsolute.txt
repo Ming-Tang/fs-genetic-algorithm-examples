@@ -1,0 +1,12 @@
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\TextEvolution.XML
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\TextEvolution.exe
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\TextEvolution.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\GeneticAlgorithm.dll
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\GeneticAlgorithm.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\GeneticAlgorithm.xml
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\obj\x86\Debug\TextEvolution.exe
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\obj\x86\Debug\TextEvolution.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\CurveFitting.pdb
+c:\users\aaa\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\CurveFitting.xml
+C:\Users\AAA\documents\visual studio 2010\Projects\GeneticAlgorithm\TextEvolution\bin\Debug\CurveFitting.exe
